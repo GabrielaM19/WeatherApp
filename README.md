@@ -4,4 +4,4 @@ Javascript application which uses external API to download the cuurent weather i
 
 Screenshot of working application :
 
-![]
+![](weatherAppScreenshot.PNG)
